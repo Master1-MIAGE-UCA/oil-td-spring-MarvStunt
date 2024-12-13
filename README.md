@@ -1,4 +1,8 @@
-# Rendu TD  1 - Marvin  CONIL M1 Miage
+# Projet "Dice" - Gestion de lancés de dés avec Spring Boot
+__Rendu TD  1 - Marvin  CONIL M1 Miage__
+
+## Description
+Le projet "Dice" est une application construite avec Spring Boot permettant de simuler des lancés de dés et de gérer un historique des résultats en base de données. Ce projet met en œuvre les concepts fondamentaux de Spring Boot, notamment l'injection de dépendances, les services RESTful, les entités JPA et les repositories.
 
 ## Technologies
 - **Framework principal** : Spring Boot
